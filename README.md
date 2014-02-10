@@ -21,7 +21,7 @@ Using this recipe you can select any file or folder in `project1` in RubyMine, t
   3. Add external tool into RubyMine: 
     * Select RubyMine -> Preferences -> IDE Settings -> External Tools -> Add.
     * Setup fields as on following screenshot
-      ![ScreenShot](https://github.com/enaruta/rubymine-compare-with-araxis-merge/blob/master/screenshot.jpg)
+      ![ScreenShot](https://raw2.github.com/enaruta/rubymine-compare-with-araxis-merge/master/screenshot.png)
   4. Add hotkey for added tool:
     * Select RubyMine -> Preferences -> IDE Settings -> Keymap -> External Tools -> Compare with Araxis Merge.
     * Right click on Compare with Araxis Merge -> Add Keyboard Shortcut and enter a hotkey. For example, `Shift + Command + W`.
